@@ -39,5 +39,5 @@ bash Toolsv2.sh
 # info script 
 SCRIPT 100% AMAN DAN WORK 
 
-
+<img src="https://github.com/fahadsyihab06/Toolsv2/ss.png" alt="Toolsv2">
               
